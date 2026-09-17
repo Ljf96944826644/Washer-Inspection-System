@@ -1,0 +1,27 @@
+## Visual Studio 生成文件
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.docstates
+
+## 发布输出
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+publish/
+
+## NuGet
+packages/
+
+## 测试图片和运行时产物
+*.bmp
+*.jpg
+*.png
+E:\Images/
+
+
+
+
