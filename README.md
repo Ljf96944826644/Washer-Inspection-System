@@ -3,7 +3,8 @@
 本项目是一套面向工业产线的垫圈外观自动检测上位机软件。通过集成西门子 PLC 通信、海康工业相机采集与 Halcon 机器视觉算法，实现了“PLC 触发 → 图像采集 → 视觉检测 → 结果回写 → 数据入库”的全自动闭环流程，有效替代人工目检，提升生产效率。
 ## 项目截图
 
-    ![软件主界面](.image.png)
+    ![软件主界面](<img width="983" height="593" alt="image" src="https://github.com/user-attachments/assets/cb06d284-a64c-47ec-b812-2eb693b44b34" />
+)
     
 ## 核心功能
 
